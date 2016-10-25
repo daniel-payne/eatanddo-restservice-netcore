@@ -1,0 +1,9 @@
+bin/
+obj/
+Properties/
+runCloud.bat
+runRest.bat
+web.config
+WebApplication.xproj.user
+WebApplication.xproj
+Project_Readme.html
